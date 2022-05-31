@@ -18,7 +18,7 @@ What kind of technologist practice is imployed? A creative technoloist practice 
 whats = [ "craft", "creative" ]
 ```
 
-# What the practice do?
+# What does the practice do?
 
 This is the aspect where the perfamtivity of Rosa's concept of resonance comes in mainly. Thinking the practice of the above as a resonant practice the verb should denote an active as well as passive influence.
 
@@ -27,7 +27,7 @@ This is the aspect where the perfamtivity of Rosa's concept of resonance comes i
 influences = [ "enable", "encourage" ]
 ```
 
-# What type of conenction does the practice address?
+# What type of connections does the practice address?
 
 The connection denoted here contributes to framing the resonance concept with the scope of the research.
 
@@ -43,7 +43,7 @@ connections = [
     ]
 ```
 
-# How do these conenctions relate?
+# How do these connections relate?
 
 There is a reductive aspect to the question as it speaks of only two spectrums the sense of self / somatic / bodies and internet connected technologies. The aim should be to keep the research well scoped on the one hand and avoid underlining binary conceptions on the other.
 
@@ -61,7 +61,7 @@ The research aims address the scope of the self as "our bodies and sense-of-self
 selves = [ "somatic experiences", "lived somatic experiences" ]
 ```
 
-# ASking the Questions
+# Asking the Questions
 
 From these pre-conditions the following research questions can be generated. The intend is to seperately record a best fitting one and capture the reasoning in order to settle on one for the final thesis work.
 
