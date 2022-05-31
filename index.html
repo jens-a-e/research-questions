@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring Research Questions addressing the relationships between Wearable IoT and the Self</title>
+    <style>
+        html, body {
+            font-family: sans-serif;
+            max-width: 600px;
+            margin: 3em auto
+        }
+        #result {
+            max-width: 20rem;
+            line-height: 1.5;
+            height: 6em;
+        }
+        form {
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        window.update = function update() {
+            // Skip in case not every select is chosen
+            if (![whats.value,influences.value,connections.value,throughs.value,selves.value].every(function(v) { return v !== ''})) return
+
+            result.innerText = `How can ${whats.value} technologist practice ${influences.value} nourishing ${connections.value} ${throughs.value} internet connected technologies and our ${selves.value}?`
+        }
+        const base = {
+            whats: ['craft', 'creative'],
+            influences: [ "enable", "encourage" ],
+            connections: [
+                // straightforward
+                "realtionships",
+                // I think of Hummels' encounters and sensemaking studio
+                "encounters",
+                // Haraway's notion of making kin (active) and positing oneself in a re-view of more-than-human relations
+                "kinship"
+                ],
+            throughs: [ "between", "of", "among" ],
+            selves: [ "somatic experiences", "lived somatic experiences" ],
+        }
+        document.onreadystatechange = function(e) {
+            if (document.readyState !== 'complete') return
+            Object.entries(base).map(function([name, values]){
+                let select = document.createElement('select')
+                select.id = name
+                select.size = 5
+                select.onchange = update
+                values.map(function(value) {
+                    let option = document.createElement('option')
+                    option.innerText = value
+                    option.value = value
+                    select.appendChild(option)
+                })
+                form.appendChild(select)
+            })
+        }
+    </script>
+    <h1>Aaaaand the research question is…</h1>
+    <blockquote id="result"></blockquote>
+    <p>Please select a word from each</p>
+    <form style="display:flex; flex-direction: row;" id="form">
+    </form>
+</body>
+</html>
