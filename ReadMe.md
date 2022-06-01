@@ -35,7 +35,7 @@ The connection denoted here contributes to framing the resonance concept with th
 ```python
 connections = [
     # straightforward
-    "realtionships",
+    "relationships",
     # I think of Hummels' encounters and sensemaking studio
     "encounters",
     # Haraway's notion of making kin (active) and positing oneself in a re-view of more-than-human relations
@@ -80,22 +80,22 @@ questions = [
 ]
 ```
 
-    How can craft technologist practice enable nourishing realtionships between internet connected technologies and our somatic experiences?
+    How can craft technologist practice enable nourishing relationships between internet connected technologies and our somatic experiences?
     
     
-    How can craft technologist practice enable nourishing realtionships between internet connected technologies and our lived somatic experiences?
+    How can craft technologist practice enable nourishing relationships between internet connected technologies and our lived somatic experiences?
     
     
-    How can craft technologist practice enable nourishing realtionships of internet connected technologies and our somatic experiences?
+    How can craft technologist practice enable nourishing relationships of internet connected technologies and our somatic experiences?
     
     
-    How can craft technologist practice enable nourishing realtionships of internet connected technologies and our lived somatic experiences?
+    How can craft technologist practice enable nourishing relationships of internet connected technologies and our lived somatic experiences?
     
     
-    How can craft technologist practice enable nourishing realtionships among internet connected technologies and our somatic experiences?
+    How can craft technologist practice enable nourishing relationships among internet connected technologies and our somatic experiences?
     
     
-    How can craft technologist practice enable nourishing realtionships among internet connected technologies and our lived somatic experiences?
+    How can craft technologist practice enable nourishing relationships among internet connected technologies and our lived somatic experiences?
     
     
     How can craft technologist practice enable nourishing encounters between internet connected technologies and our somatic experiences?
@@ -134,22 +134,22 @@ questions = [
     How can craft technologist practice enable nourishing kinship among internet connected technologies and our lived somatic experiences?
     
     
-    How can craft technologist practice encourage nourishing realtionships between internet connected technologies and our somatic experiences?
+    How can craft technologist practice encourage nourishing relationships between internet connected technologies and our somatic experiences?
     
     
-    How can craft technologist practice encourage nourishing realtionships between internet connected technologies and our lived somatic experiences?
+    How can craft technologist practice encourage nourishing relationships between internet connected technologies and our lived somatic experiences?
     
     
-    How can craft technologist practice encourage nourishing realtionships of internet connected technologies and our somatic experiences?
+    How can craft technologist practice encourage nourishing relationships of internet connected technologies and our somatic experiences?
     
     
-    How can craft technologist practice encourage nourishing realtionships of internet connected technologies and our lived somatic experiences?
+    How can craft technologist practice encourage nourishing relationships of internet connected technologies and our lived somatic experiences?
     
     
-    How can craft technologist practice encourage nourishing realtionships among internet connected technologies and our somatic experiences?
+    How can craft technologist practice encourage nourishing relationships among internet connected technologies and our somatic experiences?
     
     
-    How can craft technologist practice encourage nourishing realtionships among internet connected technologies and our lived somatic experiences?
+    How can craft technologist practice encourage nourishing relationships among internet connected technologies and our lived somatic experiences?
     
     
     How can craft technologist practice encourage nourishing encounters between internet connected technologies and our somatic experiences?
@@ -188,22 +188,22 @@ questions = [
     How can craft technologist practice encourage nourishing kinship among internet connected technologies and our lived somatic experiences?
     
     
-    How can creative technologist practice enable nourishing realtionships between internet connected technologies and our somatic experiences?
+    How can creative technologist practice enable nourishing relationships between internet connected technologies and our somatic experiences?
     
     
-    How can creative technologist practice enable nourishing realtionships between internet connected technologies and our lived somatic experiences?
+    How can creative technologist practice enable nourishing relationships between internet connected technologies and our lived somatic experiences?
     
     
-    How can creative technologist practice enable nourishing realtionships of internet connected technologies and our somatic experiences?
+    How can creative technologist practice enable nourishing relationships of internet connected technologies and our somatic experiences?
     
     
-    How can creative technologist practice enable nourishing realtionships of internet connected technologies and our lived somatic experiences?
+    How can creative technologist practice enable nourishing relationships of internet connected technologies and our lived somatic experiences?
     
     
-    How can creative technologist practice enable nourishing realtionships among internet connected technologies and our somatic experiences?
+    How can creative technologist practice enable nourishing relationships among internet connected technologies and our somatic experiences?
     
     
-    How can creative technologist practice enable nourishing realtionships among internet connected technologies and our lived somatic experiences?
+    How can creative technologist practice enable nourishing relationships among internet connected technologies and our lived somatic experiences?
     
     
     How can creative technologist practice enable nourishing encounters between internet connected technologies and our somatic experiences?
@@ -242,22 +242,22 @@ questions = [
     How can creative technologist practice enable nourishing kinship among internet connected technologies and our lived somatic experiences?
     
     
-    How can creative technologist practice encourage nourishing realtionships between internet connected technologies and our somatic experiences?
+    How can creative technologist practice encourage nourishing relationships between internet connected technologies and our somatic experiences?
     
     
-    How can creative technologist practice encourage nourishing realtionships between internet connected technologies and our lived somatic experiences?
+    How can creative technologist practice encourage nourishing relationships between internet connected technologies and our lived somatic experiences?
     
     
-    How can creative technologist practice encourage nourishing realtionships of internet connected technologies and our somatic experiences?
+    How can creative technologist practice encourage nourishing relationships of internet connected technologies and our somatic experiences?
     
     
-    How can creative technologist practice encourage nourishing realtionships of internet connected technologies and our lived somatic experiences?
+    How can creative technologist practice encourage nourishing relationships of internet connected technologies and our lived somatic experiences?
     
     
-    How can creative technologist practice encourage nourishing realtionships among internet connected technologies and our somatic experiences?
+    How can creative technologist practice encourage nourishing relationships among internet connected technologies and our somatic experiences?
     
     
-    How can creative technologist practice encourage nourishing realtionships among internet connected technologies and our lived somatic experiences?
+    How can creative technologist practice encourage nourishing relationships among internet connected technologies and our lived somatic experiences?
     
     
     How can creative technologist practice encourage nourishing encounters between internet connected technologies and our somatic experiences?
