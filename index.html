@@ -21,15 +21,20 @@
     </style>
 </head>
 <body>
-    <script>
+    <script type="application/javascript">
         window.update = function update() {
             // Skip in case not every select is chosen
             if (![whats.value,influences.value,connections.value,throughs.value,selves.value].every(function(v) { return v !== ''})) return
 
-            result.innerText = `How can ${whats.value} technologist practice ${influences.value} nourishing ${connections.value} ${throughs.value} internet connected technologies and our ${selves.value}?`
+            result.innerText = `How can ${whats.value} ${influences.value} nourishing ${connections.value} ${throughs.value} internet connected technologies and our ${selves.value}?`
         }
         const base = {
-            whats: ['craft', 'creative'],
+            whats: [
+                'we bring data back to people to',
+                'closeness to data',
+                'craft technologist practice',
+                'creative technologist practice',
+            ],
             influences: [ "enable", "encourage" ],
             connections: [
                 // straightforward

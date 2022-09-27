@@ -1,17 +1,24 @@
 # Exploring the Research Question in a generative manner
 
-My research question has evolved such that is contains modular parts which in details are open to variations. I have not yet settled on a final version. To create an open field with the scope of the question the parts in question are mixed through an iterative generation through all possible combinations.
+My research question has evolved such that is contains modular parts which in details are open to variations. I have not yet settled on a final version. To create an open field with the scope of the question, the parts in question are mixed through an iterative generation through all possible combinations.
 
 There are fife sections:
-- the type of technologist practice
-- the how it relates to the connections
+<!-- 20220922 Received feedback that anchoring the question on "the type of technologist practice" is exclusive to those using the technology. It could change to a generic form which includes the practioners as well as users of technology; whether the intention of the research is to understand users as practioners could/should be discussed separatedly? -->
+- the type of (technologist) practice
+- how it relates to the connections
 - the connections themselves
 - how they link
 - how to represent the body and sense of self
 
 # What kind of Technologist Practice
 
-What kind of technologist practice is imployed? A creative technoloist practice or a craft technologist practice as Mike Shorter re-frames creative technologist practice more recently to update the notion of creative technoloy from mid last century / 70 years ago?
+What kind of technologist practice is employed? A creative technologist practice or a craft technologist practice as Mike Shorter re-frames creative technologist practice more recently to update the notion of creative technology from mid last century / 70 years ago?
+
+Update 20220922: Received feedback that anchoring the question on "the type of technologist practice" is exclusive to those using the technology. It could change to a generic form which includes practitioners as well as users of technology; whether the intention of the research is to understand users as practitioners could/should be discussed separately?
+
+Ideas:
+
+- 
 
 
 ```python
